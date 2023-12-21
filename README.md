@@ -2,7 +2,7 @@
 <html>
   <body>
     <h1>
-      CODE CASA Internship
+      CODE SOFT Internship
     </h1>
     <h3>
       Welcome Friends
